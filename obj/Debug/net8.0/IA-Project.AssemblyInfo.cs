@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IA-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f869dccd02c817063d83d85da90a418b977cd005")]
 [assembly: System.Reflection.AssemblyProductAttribute("IA-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IA-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
